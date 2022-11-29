@@ -2,9 +2,9 @@
 
 ## I'm Junior Data Analyst
 
-* 🔭 I’m currently looking for a job. Я сейчас нахожусь в поиске работы
-* 🎓 I graduated from [Yandex Practicum](https://practicum.yandex.ru/) on the course "Data Analyst". Я окончила обучение в Яндекс Пракутикуме на курсе "Аналитик данных"
-* 🫶🏻 I like product and marketing analytics. # Мне интересна продуктовая и маркетинговая аналитика
+* 🔭 I’m currently looking for a job.
+* 🎓 I graduated from [Yandex Practicum](https://practicum.yandex.ru/) on the course "Data Analyst".
+* 🫶🏻 I like product and marketing analytics. 
 
 ### Connect with me
 
@@ -39,4 +39,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Я сейчас нахожусь в поиске работы
+# Я окончила обучение в Яндекс Пракутикуме на курсе "Аналитик данных"
+# Мне интересна продуктовая и маркетинговая аналитика
+
 -->
