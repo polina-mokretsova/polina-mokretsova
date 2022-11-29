@@ -1,9 +1,9 @@
 ### Hi there, I'm Polina Mokretsova👋
 
-## I'm Junior Data Analyst
+## I'm a Junior Data Analyst
 
 * 🔭 I’m currently looking for a job.
-* 🎓 I graduated from [Yandex Practicum](https://practicum.yandex.ru/) on the course "Data Analyst".
+* 🎓 I graduated from [Yandex Practicum](https://practicum.yandex.ru/), "Data Analyst" course.
 * 🫶🏻 I like product and marketing analytics. 
 
 ### Connect with me
