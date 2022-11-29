@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="30" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="30" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="30" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="anaconda" alt="anaconda" width="30" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="30" height="20"/>&nbsp;
 
 <!--
 **polina-mokretsova/polina-mokretsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
