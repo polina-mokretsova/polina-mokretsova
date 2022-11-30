@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/polina-mokretsova/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100041244644857">
+  <a href="https://www.facebook.com/mokretsova.polina/">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
 </div>
