@@ -1,10 +1,11 @@
 ### Hi there, I'm Polina Mokretsova👋
 
-## I'm a Junior Data Analyst
+## I'm a Junior Product/Data Analyst
 
 * 🔭 I’m currently looking for a job.
+* 💻 I am an intern product analyst at "Otkritie" Bank.
 * 🎓 I graduated from [Yandex Practicum](https://practicum.yandex.ru/), "Data Analyst" course.
-* 🫶🏻 I like product and marketing analytics. 
+* 🫶🏻 I like product analytics. 
 
 ### Connect with me
 
