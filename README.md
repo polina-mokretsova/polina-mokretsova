@@ -3,7 +3,7 @@
 ## I'm a Junior Product/Data Analyst
 
 * 🔭 I’m currently looking for a job.
-* 💻 I am an intern product analyst at "Otkritie" Bank.
+* 💻 I am an intern product analyst at ["Otkritie" Bank](https://www.open.ru/).
 * 🎓 I graduated from [Yandex Practicum](https://practicum.yandex.ru/), "Data Analyst" course.
 * 🫶🏻 I like product analytics. 
 
